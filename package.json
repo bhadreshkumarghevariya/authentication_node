@@ -1,0 +1,31 @@
+{
+  "name": "authentication_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhadreshkumarghevariya/authentication_node.git"
+  },
+  "author": "Bhadreshkumar Ghevariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhadreshkumarghevariya/authentication_node/issues"
+  },
+  "homepage": "https://github.com/bhadreshkumarghevariya/authentication_node#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/node": "^7.20.7",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
